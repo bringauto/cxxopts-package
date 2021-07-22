@@ -6,7 +6,7 @@ VERSION=v2.2.1
 REPO_PATH=repo
 BUILD_PATH="${REPO_PATH}/_build"
 
-git clone git@github.com:jarro2783/cxxopts.git "${REPO_PATH}"
+git clone https://github.com/jarro2783/cxxopts.git "${REPO_PATH}"
 
 mkdir -p "${BUILD_PATH}"
 pushd "${BUILD_PATH}"
