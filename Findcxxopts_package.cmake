@@ -4,7 +4,7 @@
 #
 
 CMLIB_DEPENDENCY(
-	URI "https://github.com/bringauto/cxxopts-package/releases/download/v2.2.1/libcxxopts-dev_v2.2.1_any.zip"
+	URI "https://github.com/bringauto/cxxopts-package/releases/download/v3.0.0/libcxxopts-dev_v3.0.0_any.zip"
 	TYPE ARCHIVE
 	OUTPUT_PATH_VAR _cxxopts_ROOT
 )
